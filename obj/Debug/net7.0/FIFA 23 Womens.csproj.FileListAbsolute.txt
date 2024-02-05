@@ -1,0 +1,31 @@
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\bin\Debug\net7.0\appsettings.json
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\bin\Debug\net7.0\FIFA 23 Womens.staticwebassets.runtime.json
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\bin\Debug\net7.0\FIFA 23 Womens.exe
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\bin\Debug\net7.0\FIFA 23 Womens.deps.json
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\bin\Debug\net7.0\FIFA 23 Womens.runtimeconfig.json
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\bin\Debug\net7.0\FIFA 23 Womens.dll
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\bin\Debug\net7.0\FIFA 23 Womens.pdb
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\FIFA 23 Womens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\FIFA 23 Womens.AssemblyInfoInputs.cache
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\FIFA 23 Womens.AssemblyInfo.cs
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\FIFA 23 Womens.csproj.CoreCompileInputs.cache
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\FIFA 23 Womens.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\FIFA 23 Womens.RazorAssemblyInfo.cache
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\FIFA 23 Womens.RazorAssemblyInfo.cs
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\staticwebassets\msbuild.FIFA 23 Womens.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\staticwebassets\msbuild.build.FIFA 23 Womens.props
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FIFA 23 Womens.props
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FIFA 23 Womens.props
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\scopedcss\bundle\FIFA 23 Womens.styles.css
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\scopedcss\projectbundle\FIFA 23 Womens.bundle.scp.css
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\FIFA 23 Womens.dll
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\refint\FIFA 23 Womens.dll
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\FIFA 23 Womens.pdb
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\FIFA 23 Womens.genruntimeconfig.cache
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\FIFA 23 Womens\obj\Debug\net7.0\ref\FIFA 23 Womens.dll

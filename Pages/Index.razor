@@ -1,0 +1,35 @@
+﻿@page "/"
+
+<PageTitle>Index</PageTitle>
+
+<h1>FIFA Womens World Cup 2023</h1>
+
+<Viewer UseDefaultScene = "@true">
+    <Model Source = "C:\Users\jeric\OneDrive\Design\3D\Blender\Objects\Earth-Personal.gltf"></Model>
+</Viewer>
+
+@* https://www.nuget.org/packages?q=Blazor3D *@ 
+
+@* 
+The Viewer and Model elements
+are not recognized by the Razor engine. This is because the Blazor3D Viewer
+component is not included in your project. To fix this issue, you need to add
+the Blazor3D Viewer component to your project. You can do this by following
+these steps: 
+
+Install the Blazor3D package from NuGet. 
+Add the following using statement to your Razor page: @using Blazor3D.Components  
+Add the Blazor3D Viewer component to your Razor page: 
+
+<Blazor3DViewer> 
+    <Model Source="~/models/your-3d-object.gltf"></Model> 
+</Blazor3DViewer> 
+*@
+
+ @* Scrolling animation: Soccer ball scrolls to world map, map data shows countries and teams in current tournament *@
+
+
+<SurveyPrompt Title="Survey Title Test"/>
+
+
+@* Link to bracket data *@
